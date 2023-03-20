@@ -77,3 +77,5 @@ cv2.destroyAllWindows()
 cv2.imshow('result', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#수정해서 제 브랜치에만 있어요
